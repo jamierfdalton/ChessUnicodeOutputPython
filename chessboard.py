@@ -8,5 +8,5 @@ board = [
     ["\u265F","\u265F","\u265F","\u265F","\u265F","\u265F","\u265F","\u265F",],
     ["\u265C","\u265E","\u265D","\u265B","\u265A","\u265D","\u265E","\u265C",],
 ]
-for i in newboard:
+for i in board:
     print(*i)
